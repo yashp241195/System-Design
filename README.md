@@ -1,3 +1,3 @@
 # System-Design
 
-LLD Low Level Diagrams [a relative link](LLD.pdf)
+LLD Low Level Diagrams [link](LLD.pdf)
